@@ -63,7 +63,7 @@ section > p {
 
 @media (max-width: 600px) 
   p {
-    font-size: 6vw;
+    font-size: 8vw;
   }
 
 section.normal {
@@ -89,7 +89,7 @@ section.imagem > p {
 
 @media (max-width: 600px) 
   section.imagem > p {
-    font-size: 6vw;
+    font-size: 8vw;
   }
 
 
