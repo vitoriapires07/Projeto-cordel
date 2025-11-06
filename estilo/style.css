@@ -75,7 +75,7 @@ section.imagem {
     max-width: 100%;
     background-color: rgb(49, 49, 49);
     color: white;
-    box-shadow: inset 6px 6px 13px 0px rgba(0, 0, 0, 0.881);
+    box-shadow: inset 6px 6px 13px 0px rgba(0, 0, 0, 0.509);
     background-size: cover;
     background-attachment: fixed;
 }
